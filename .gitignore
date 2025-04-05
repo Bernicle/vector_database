@@ -1,0 +1,5 @@
+env
+.env
+persistant_data/*
+__pycache__
+persistant_data
